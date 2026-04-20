@@ -1,7 +1,4 @@
-using Unity.Android.Types;
-using UnityEditor.Experimental.GraphView;
-using UnityEngine;
-using UnityEngine.InputSystem;
+
 
 public class GameManager : MonoBehaviour
 {
